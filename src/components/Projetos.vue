@@ -3,7 +3,7 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-  <div>
+  <div class='anima'>
     <div class='main'>
         <h5>
             <i class="fa-solid fa-diagram-project"></i> Projetos

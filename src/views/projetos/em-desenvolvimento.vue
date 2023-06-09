@@ -4,7 +4,7 @@ import Projetos from '../../components/Projetos.vue'
 
 <template>
   <Projetos />
-  <div>
+  <div class='anima'>
 
     <div class='main-two'>
       <div>

@@ -9,8 +9,7 @@ a,
 .green {
   text-decoration: none;
   color: #00bd7e;
-  transition: all 0.4s;
-  border: solid .8px var(--color-backgro);
+  transition: 0.4s;
 }
 
 .anima {
@@ -95,7 +94,7 @@ a,
 
 .homeAnimation {
   animation-direction: top;
-  animation: opacityAnimation 14s;
+  animation: opacityAnimation 5s;
 }
 
 
