@@ -49,10 +49,13 @@ nav {
 
 nav a {
   color: var(--color-text);
+  font-weight: bold;
+  font-size: .9rem;
 }
 
 nav a.router-link-exact-active {
-  color: #00bd7e
+  color: #00bd7e;
+  text-decoration: underline 1px #00bd7e;
 }
 
 nav a.router-link-exact-active:hover {
