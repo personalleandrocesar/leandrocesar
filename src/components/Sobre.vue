@@ -583,7 +583,7 @@ code {
 
 
 .main-two a {
-  border: solid .1px #00bd7e;
+  border: solid .1px #00bd7e54;
   height: 55px;
   width: 55px;
   color: var(--color-text);
