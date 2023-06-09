@@ -500,6 +500,7 @@ code {
 .profile h1 {
   margin: 5px 10px 0 10px;
   font-size: 1.3em;
+  color: #00bd7e;
 }
 
 
