@@ -10,6 +10,7 @@ a,
   text-decoration: none;
   color: #00bd7e;
   transition: all 0.4s;
+  border: solid .8px var(--color-backgro);
 }
 
 .anima {
