@@ -86,6 +86,7 @@ code {
   justify-content: flex-start;
   flex-direction: column;
   color: var(--color-text);
+  font-size: 1.4rem;
 }
 
 .main-two {
