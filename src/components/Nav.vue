@@ -3,17 +3,12 @@
     '>
         <div>
             <div>
-                <a @click="Theme"><i class="fas main-l fa-arrow-left"></i></a>
+                <a @click="$router.go(-1)"><i class="fas main-l fa-arrow-left"></i></a>
             </div>
         </div>
     </div>
 
 </template>
-<script>
-data() {
-  Theme: dsd
-}
-</script>
 <style scoped>
 .nav
 {
