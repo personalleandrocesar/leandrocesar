@@ -172,8 +172,8 @@ export default {
       aplicarFive: "",
       aplicarSix: "",
       aplicarSeven: "",
-      aplicarEight: "",
-      aplicarNine: true,
+      aplicarEight: true,
+      aplicarNine: "",
       acontecimentos: `
         <h4 style="margin-left: 10px;">Fevereiro</h4>
           <ul class="com-bullet com-indent">
