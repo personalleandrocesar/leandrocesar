@@ -54,9 +54,6 @@
           <i class="fas fa-certificate"></i> Pós-Graduação Lato-Sensu (especialização) em Acupuntura - UNIVERSIDADE
           CELSO LISBOA - UCL (2018 - 2022);
           <br>
-          <i class="fas fa-graduation-cap"></i> Graduando em Análise e Desenvolvimento de Sistemas - 
-          UNIVERSIDADE ESTÁCIO - ESTÁCIO (2023 - atual);
-          <br>
           <i class="fas fa-certificate graduando"></i> Pós-Graduando em Cinesiologia, Biomecânica e Treinamento Físico -
           UNIVERSIDADE CASTELO BRANCO - UCB (2021 - atual);
           <br>
@@ -101,8 +98,6 @@
     
     <div class='main-five'>
       <div class='main-five-card'>
-        <h4 class='dateYear'>|</h4>
-        <h4 @click='doisTres' class='dateYear' :class='{ dateYearHover: aplicarNine }'>2023</h4>
         <h4 class='dateYear'>|</h4>
         <h4 @click='doisDois' class='dateYear' :class='{ dateYearHover: aplicarEight }'>2022</h4>
         <h4 class='dateYear'>|</h4>
@@ -183,7 +178,22 @@ export default {
         <h4 style="margin-left: 10px;">Fevereiro</h4>
           <ul class="com-bullet com-indent">
             <li>
-              Início do Curso de graduação em Análise e Desenvolvimento de Sitemas na Universidade Estácio;
+              Conclusão do curso de Pós-Graduação Lato-sensu em Acupuntura - Universidade Celso Lisboa - UCL;
+            </li>
+            <li>
+              Finalizando o estágio em Acupuntura na Celso Lisboa - UCL;
+            </li>
+          </ul>
+        <h4 style="margin-left: 10px;">Janeiro</h4>
+          <ul class="com-bullet com-indent">
+            <li>
+              Site deepacupuntura.com no ar;
+            </li>
+            <li>
+              Curso de aprimoramento teórico e prático de Acupuntura Escalpiana de Jiao Shunfa; 
+            </li>
+            <li>
+              Início dos trabalhos da Deep Acupuntura na academia BodyClass;
             </li>
           </ul>
           `}
