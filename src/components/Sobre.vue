@@ -70,7 +70,7 @@
 <div class="main-two">
   <div>
     
-    <a href="https://api.whatsapp.com/send?phone=5521971305858%20&text=Ol%C3%A1%20Leandro%20Cesar,%20fiquei%20interessado(a)%20na%20sua%20Consultoria%20e%20nos%20seus%20Servi%C3%A7os,%20me%20chamo%20">
+    <a href="https://api.whatsapp.com/send?phone=5521936184024%20&text=Ol%C3%A1%20Leandro%20Cesar,%20fiquei%20interessado(a)%20na%20sua%20Consultoria%20e%20nos%20seus%20Servi%C3%A7os,%20me%20chamo%20">
       <i class="fa-brands fa-square-whatsapp"></i> WhatsApp
     </a>
     <a href="mailto:personal@leandrocesar.com">
