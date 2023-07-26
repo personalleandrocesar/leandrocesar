@@ -1,7 +1,13 @@
+<script setup lang="ts">
+useHead({
+    titleTemplate: 'leandrocesar.com',
+})
+</script>
+
 <template>
   <header>
     <div class='logo'>
-      <LCLogoFive/>
+      <LCLogoOne/>
       <!-- <img alt="leandrocesar.com logo" class="logo" src="@/assets/logoBeta.svg" width="110" height="110" /> -->
         <span class='logoAnimationSeven'>
           <h1 class='lightOnAnimationSeven'>leandrocesar.com</h1>
@@ -10,14 +16,11 @@
           <h3>Consultoria & Serviços</h3>
         </span>
         <nav>
-          <NuxtLink to="/">INÍCIO</NuxtLink>
-          <NuxtLink to="/projetos/ativos">PROJETOS</NuxtLink>
-          <NuxtLink to="/sobre">SOBRE</NuxtLink>
+          <NuxtLink to="/">CNPJ: 40.930.118/0001-33</NuxtLink>
         </nav>
     </div>
   </header>
 
-  <NuxtPage />
 </template>
 
 <style scoped>
