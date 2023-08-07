@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useHead({
-    titleTemplate: 'leandrocesar.com',
+    titleTemplate: 'leandrocesar.com', 
 })
 </script>
 
