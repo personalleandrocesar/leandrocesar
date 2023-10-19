@@ -6,6 +6,6 @@ useHead({
 
 <template>
   <main>
-    <TheWelcome />
+    <Index />
   </main>
 </template>

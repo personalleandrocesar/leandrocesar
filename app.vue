@@ -7,12 +7,12 @@ useHead({
 <template>
   <header>
     <div class='logo'>
-      <LCLogoOne/>
+      <LCLogoFive/>
       <!-- <img alt="leandrocesar.com logo" class="logo" src="@/assets/logoBeta.svg" width="110" height="110" /> -->
-        <span class='logoAnimationSeven'>
-          <h1 class='lightOnAnimationSeven'>leandrocesar.com</h1>
+        <span>
+          <h1>leandrocesar.com</h1>
         </span>
-        <span class='logoAnimationSevenTwo'>
+        <span>
           <h3>Consultoria & Serviços</h3>
         </span>
         <nav>
@@ -31,7 +31,7 @@ useHead({
   align-items: center;
   flex-wrap: wrap;
   margin-top: 2rem;
-  color: hsla(160, 100%, 37%, 1);
+  color: #00DC82;
 }
 
 
@@ -54,11 +54,11 @@ nav a {
 }
 
 nav a.router-link-exact-active {
-  color: #00bd7e;
+  color: #00DC82;
 }
 
 nav a.router-link-exact-active:hover {
-  background-color: #00bd7e54;
+  background-color: #00DC8254;
   color: var(--color-text);
 }
 

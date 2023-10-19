@@ -12,7 +12,7 @@
 a,
 .green {
   text-decoration: none;
-  color: #00bd7e;
+  color: #00DC82;
   transition: 0.4s;
 }
 
@@ -33,7 +33,7 @@ a,
 
 @keyframes lightOnAnimation {
   0% {
-    color: #00bd7e;
+    color: #00DC82;
   }
 
   50% {

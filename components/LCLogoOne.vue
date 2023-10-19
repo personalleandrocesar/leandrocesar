@@ -38,7 +38,7 @@
 <style scoped>
 
 .immage {
-color: 00bd7e;
+color: #00bd7e;
 }
 
 svg {
